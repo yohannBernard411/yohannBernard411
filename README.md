@@ -1,4 +1,10 @@
 # 💫 About Me:
+WEB Developer full-stack (JAVA-ANGULAR)
+
+After 15 years in the field of aeronautics, and a retraining (for health reasons).
+
+I am a full-stack web developer with a particular attraction for algorithms.
+
 I'm looking to join a fun team to develop interesting projects.
 
 
